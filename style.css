@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0;
+   
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem; 
+    text-align: center;
+    color:darkred;
+}
+
+#img{
+margin-left: 1%;
+width: 30rem;
+}
+#stronger-than{
+    margin:1rem;
+    padding: 10rem;
+    background-image: url(./strong.png);
+    background-size: cover;
+    display: flex;
+  
+}
+#cooler-than{
+    padding:10rem;
+    height: fit-content;
+    margin: 1rem;
+    background-image: url(./cool.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+#smarter-than{
+    padding: 10rem;
+    margin: 1rem;
+    background-image: url(./smart.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#faster-than{
+ 
+    padding: 10rem;
+    margin: 1rem;
+    background-image: url(./man-run.png);
+    background-color: lightgray;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.msg{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+.MsgImg{
+    height: 400px;
+    width: 600px;
+}
+#fathers-day{
+    margin: 1rem;
+    padding:1.5rem;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    
+}
+#us{
+    margin: 1rem;
+    padding:1.5rem;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    
+}
+#arav{
+    height: 600px;
+    width: 500px; 
+    margin: 1rem;
+}
+#shi-shi{
+    height: 600px;
+    width: 500px; 
+    margin: 1rem;
+}
+
+#back-btn{
+    margin: 1rem;
+    padding:1.5rem;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
